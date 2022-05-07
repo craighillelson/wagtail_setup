@@ -2,7 +2,7 @@
 bash scripts for setting up wagtail on a mac
 
 # instructions
-1. download both files
+1. download 'wagtail_setup.sh' and 'launch_server.sh'
 2. edit line 11 of 'wagtail_setup.sh' to include the values you'd like to use for username and email
 3. from the command line, navigate to the directory where you saved the files
 4. type 'sh wagtail_setup.sh'
